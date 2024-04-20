@@ -11,7 +11,7 @@ class Hyena(Animal):
     # Create a list of hyena names.
     list_of_hyena_names = []
 
-    file_path = r'C:\Users\Brendan\PycharmProjects\CIT95SPRING2024\CIT95python\zooKeepersChallenge\animalNames.txt'
+    file_path = r'animalNames.txt'
     with open(file_path, 'r') as file:
         lines = file.readlines()
 
