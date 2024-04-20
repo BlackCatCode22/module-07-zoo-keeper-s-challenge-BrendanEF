@@ -1,0 +1,29 @@
+Zookeeper's Challenge Zoo Population 
+ 
+Hyena Habitat: 
+ 
+Hy01, Shenzi; birthdate: 2020-03-21; tan color; female; 70 pounds; animalSounds:  laugh...laugh ; from Friguia Park, Tunisia; arrived: 2024-04-19 
+Hy02, Banzai; birthdate: 2012-09-21; brown color; male; 150 pounds; animalSounds:  laugh...laugh ; from Friguia Park, Tunisia; arrived: 2024-04-19 
+Hy03, Ed; birthdate: 2020-03-21; black color; male; 120 pounds; animalSounds:  laugh...laugh ; from Friguia Park, Tunisia; arrived: 2024-04-19 
+Hy04, Zig; birthdate: 2016-01-01; black and tan striped color; female; 105 pounds; animalSounds:  laugh...laugh ; from Friguia Park, Tunisia; arrived: 2024-04-19 
+ 
+Lion Habitat: 
+ 
+Li01, Scar; birthdate: 2018-03-21; tan color; female; 300 pounds; animalSounds:  roar...roar ; from Zanzibar, Tanzania; arrived: 2024-04-19 
+Li02, Mufasa; birthdate: 2012-12-21; dark tan color; female; 375 pounds; animalSounds:  roar...roar ; from KopeLion, Tanzania; arrived: 2024-04-19 
+Li03, Simba; birthdate: 2002-09-21; golden color; male; 450 pounds; animalSounds:  roar...roar ; from Zanzibar, Tanzania; arrived: 2024-04-19 
+Li04, Kiara; birthdate: 2020-03-21; tan and brown color; female; 275 pounds; animalSounds:  roar...roar ; from KopeLion, Tanzania; arrived: 2024-04-19 
+ 
+Tiger Habitat: 
+ 
+Ti01, Shenzi; birthdate: 2022-03-21; gold and tan stripes color; male; 270 pounds; animalSounds:  rawr...rawr ; from Dhaka, Bangladesh; arrived: 2024-04-19 
+Ti02, Banzai; birthdate: 2020-03-21; black stripes color; female; 400 pounds; animalSounds:  rawr...rawr ; from Dhaka, Bangladesh; arrived: 2024-04-19 
+Ti03, Ed; birthdate: 2006-09-21; gold and tan color; male; 300 pounds; animalSounds:  rawr...rawr ; from Bardia, Nepal; arrived: 2024-04-19 
+Ti04, Zig; birthdate: 2021-03-21; black stripes color; female; 285 pounds; animalSounds:  rawr...rawr ; from Bardia, Nepal; arrived: 2024-04-19 
+ 
+Bear Habitat: 
+ 
+Be01, Shenzi; birthdate: 2017-03-21; brown color; male; 320 pounds; animalSounds:  grrrr...grrrr ; from Alaska Zoo, Alaska; arrived: 2024-04-19 
+Be02, Banzai; birthdate: 1999-03-21; black color; female; 425 pounds; animalSounds:  grrrr...grrrr ; from Woodland park Zoo, Washington; arrived: 2024-04-19 
+Be03, Ed; birthdate: 2020-09-21; black color; female; 355 pounds; animalSounds:  grrrr...grrrr ; from Woodland park Zoo, Washington; arrived: 2024-04-19 
+Be04, Zig; birthdate: 2020-03-21; brown color; male; 405 pounds; animalSounds:  grrrr...grrrr ; from Alaska Zoo, Alaska; arrived: 2024-04-19
