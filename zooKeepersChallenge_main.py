@@ -111,7 +111,7 @@ def process_one_line(one_line):
 
 # Open arrivingAnimals.txt and read it one line at a time
 # Open the file in read mode
-file_path = r"C:\Users\Brendan\PycharmProjects\CIT95SPRING2024\CIT95python\zooKeepersChallenge\arrivingAnimals.txt"
+file_path = r"arrivingAnimals.txt"
 with open(file_path, "r") as file:
     # Iterate through the file line by line
     for line in file:
